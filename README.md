@@ -1,6 +1,6 @@
 # DeepSORT based on TrackR-CNN
-Code for DeepSORT based on detector from TrackR-CNN for the Multi Object Tracking and Segmentation (MOTS) task.
-\n Tracking part author: Zhiye Wen, Yan Wang
+Code for DeepSORT based on detector from TrackR-CNN for the Multi Object Tracking and Segmentation (MOTS) task.  
+Tracking part author: Zhiye Wen, Yan Wang
 
 
 ## Paper
